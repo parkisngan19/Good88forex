@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Good88 - Good88.forex Trang Chủ Chính Thức Tại Việt Nam 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Good88 <https://good88.forex/>`_ là một nền tảng cá cược trực tuyến hàng đầu, mang đến cho người chơi những trải nghiệm đa dạng từ cá cược thể thao đến các trò chơi casino đỉnh cao. Với Good88, bạn sẽ được tận hưởng môi trường giải trí trực tuyến an toàn, bảo mật và chuyên nghiệp, cùng với những khuyến mãi hấp dẫn và dịch vụ chăm sóc khách hàng tận tâm.Thông tin liên hệ:
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://good88.forex/ 
 
-.. note::
+SĐT: 0799657567
 
-   This project is under active development.
+Địa chỉ: 61 P. Tây Sơn, Quang Trung, Đống Đa, Hà Nội, Việt Nam
 
-Contents
---------
+Email: Good88feedback@gmail.com
 
-.. toctree::
-
-   usage
-   api
+#Good88 #Good88feedback #linkGood88 #nhacaiGood88 #cacuocGood88
